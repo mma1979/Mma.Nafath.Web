@@ -1,3 +1,8 @@
 <Solution>
-  <Project Path="Mma.Nafath.Web/Mma.Nafath.Web.csproj" />
+  <Folder Name="/src/">
+    <Project Path="Mma.Nafath.Web/Mma.Nafath.Web.csproj" />
+  </Folder>
+  <Folder Name="/test/">
+    <Project Path="Mma.Nafath.Web.Test/Mma.Nafath.Web.Test.csproj" Id="ab62fc00-2da6-42b0-ba93-330535ee0ed0" />
+  </Folder>
 </Solution>
